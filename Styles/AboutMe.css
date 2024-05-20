@@ -3,6 +3,8 @@ body {  font-family: Arial, sans-serif;
         padding: 0;
         background-color: #f4f4f4;}
 
+.logo  {text-align: center;}
+
 .container { width: 80%;margin: auto;
              overflow: hidden;}
 
